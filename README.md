@@ -15,7 +15,7 @@ Alternatively, if you do not have an environment in which to work on a React Nat
 
 You can use third party libraries, but the more code you write yourself, the better.
 
-You have 48 hours to submit your code, however we want to be respectful of your time and do **not** expect you to work for more than **4 hours** on this challenge.
+You have **4 days** to submit your code, however we want to be respectful of your time and do **not** expect you to work for more than **4 hours** on this challenge.
 
 When you are finished please submit a .zip file with your entire project (node_modules included) (or a link to your expo snack project).
 
